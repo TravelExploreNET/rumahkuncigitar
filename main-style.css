@@ -1,0 +1,20 @@
+/* UNIVERSAL CSS START */
+
+*{
+  margin:0 auto;
+  padding:0;
+}
+
+a {
+  text-decoration:none;
+}
+
+li{
+  list-style:none;
+}
+
+ul{
+  list-style:none;
+}
+
+/* UNIVERSAL CSS END */
